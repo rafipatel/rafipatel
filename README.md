@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafipatel
 - 👀 I’m interested in anything related to Artficial Intelligence
 - 🌱 I’m currently learning Deep Learning 
-- 💞️ I’m looking to collaborate on blogs, Freelance AI projects
+- 💞️ I’m looking to collaborate on Blogs, Freelance AI projects
 - 📫 Reach me on https://www.linkedin.com/in/rafiahmed-patel-bb2954202/
 
 <!---
