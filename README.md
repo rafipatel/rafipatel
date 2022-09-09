@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafipatel
+- 👋 Hi, I’m Raafi
 - 👀 I’m interested in anything related to Artficial Intelligence
 - 🌱 I’m currently learning Deep Learning 
 - 💞️ I’m looking to collaborate on Blogs, Freelance AI projects
