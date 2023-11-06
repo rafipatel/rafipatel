@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raafi
 - 👀 I’m interested in anything related to Artficial Intelligence
 - 🌱 I’m pursuing MSc in Artificial Intelligence focused on Deep Learning 
-- 💞️ I’m looking to collaborate on Blogs, Freelance AI projects
+- 💞️ I’m looking for any part time or internship opportunities related to AI
 - 📫 Reach me on https://www.linkedin.com/in/rafiahmed-patel-bb2954202/
 
 <!---
