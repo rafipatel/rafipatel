@@ -20,13 +20,15 @@ I'm fascinated by everything related to **Artificial Intelligence**! 🤖
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Projects
-### [Project 1: Defect Detection in Fabrics](https://github.com/rafipatel/project1)
-![Fabric Defect Detection](https://media.giphy.com/media/l3q2Ipz9U5S99A9XO/giphy.gif)
-Developed a U-NET Neural Network to detect defects in fabric videos. Responsibilities included converting videos to frames, augmenting, annotating, masking images, and visualizing model training and testing results.
 
-### [Project 2: AI for Software Testing](https://github.com/rafipatel/project2)
-![AI for Software Testing](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-Focused on automating manual software testing tasks using AI. Built APIs, collected data, performed EDA, and utilized AWS services such as Lambda, ECS, and CloudWatch.
+### [Project 1: Image Super Resolution using GANs](https://github.com/rafipatel/Image-Super-Resolution-using-GANs)
+![Image Super Resolution](https://github.com/rafipatel/Image-Super-Resolution-using-GANs/raw/main/architecture.jpg)
+Developed an Image Super Resolution model using Generative Adversarial Networks (GANs). This project aims to enhance the resolution of images, making them clearer and more detailed.
+
+### [Project 2: Transformer PyTorch Chatbot](https://github.com/rafipatel/transformer-pytorch-chatbot)
+![Chatbot](https://media.giphy.com/media/26BRzUSmjYhqsW3tC/giphy.gif)
+Built a chatbot using Transformer architecture in PyTorch. This chatbot can engage in conversations and provide relevant responses based on the input it receives.
+ed on automating manual software testing tasks using AI. Built APIs, collected data, performed EDA, and utilized AWS services such as Lambda, ECS, and CloudWatch.
 
 <!---
 rafipatel/rafipatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
