@@ -27,10 +27,9 @@ I'm fascinated by everything related to **Artificial Intelligence**! 🤖
 Developed an Image Super Resolution model using Generative Adversarial Networks (GANs). This project aims to enhance the resolution of images, making them clearer and more detailed.
 
 ### [Project 2: Transformer PyTorch Chatbot](https://github.com/rafipatel/transformer-pytorch-chatbot)
-![Chatbot](https://media.giphy.com/media/26BRzUSmjYhqsW3tC/giphy.gif)
+![Chatbot](https://miro.medium.com/max/1400/1*BHzGVskWGS_3jEcYYi6miQ.png)
 Built a chatbot using Transformer architecture in PyTorch. This chatbot can engage in conversations and provide relevant responses based on the input it receives.
-ed on automating manual software testing tasks using AI. Built APIs, collected data, performed EDA, and utilized AWS services such as Lambda, ECS, and CloudWatch.
-
+ed on automating manual software testing tasks using AI. 
 <!---
 rafipatel/rafipatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
