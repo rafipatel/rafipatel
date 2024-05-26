@@ -38,6 +38,11 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Stats
 ![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafipatel&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafipatel&layout=compact&theme=radical)
+### GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafipatel&theme=radical)](https://git.io/streak-stats)
+
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafipatel&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 rafipatel/rafipatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
