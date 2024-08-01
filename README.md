@@ -7,7 +7,7 @@ I'm fascinated by everything related to **Artificial Intelligence**! 🤖
 ## About Me
 
 - 🌱 I’m currently pursuing an MSc in Artificial Intelligence with a focus on Deep Learning.
-- 💞️ I’m actively looking for part-time or internship opportunities related to AI.
+- 💞️ I’m actively looking for internship - full timeopportunities related to AI.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/rafiahmed-patel-bb2954202/).
 
 ## My Skills
