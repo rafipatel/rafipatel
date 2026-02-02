@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 AI/ML Engineer | Full-Stack Developer | Startup Founder
+### 🚀 AI/ML Engineer | Researcher (soon) | Startup Founder
 
 [Portfolio](https://rafipatel.github.io/rafi/) • [LinkedIn](https://www.linkedin.com/in/raafi-riyaz-bb2954202) • [HuggingFace](https://huggingface.co/Rafii) • [FeedHire](https://feedhire.me/)
 
