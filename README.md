@@ -1,3 +1,12 @@
+<div align="center">
+
+<!-- Animated greeting -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Raafi's+GitHub!;I+love+to+bridge+the+gap+between+AI+research+and+engineering." alt="Typing SVG" />
+
+
+
+</div>
+
 # Hi there, I'm Raafi 👋
 
 <div align="center">
