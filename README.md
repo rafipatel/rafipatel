@@ -10,223 +10,104 @@
 
 ---
 
-## 💫 About Me
-
-I'm passionate about **bridging the gap between research and engineering** in AI/ML. As a Co-founder of [FeedHire](https://feedhire.me/), I build intelligent solutions that solve real-world problems. With expertise in **deep learning, cloud infrastructure, and full-stack development**, I love creating tools that combine cutting-edge AI with practical engineering.
-
-- 🎓 **MSc in AI** from UK institution
-- 📍 Based in **London, UK**
-- 🔬 Focus on **Production ML, Computer Vision, NLP, and API Design**
-- 💼 Experience with **FastAPI, PyTorch, AWS, Docker, and scalable systems**
-- 🎯 225+ contributions in the last year
-
----
-
 ## 🛠️ Tech Stack
 
-```
-💻 Languages:     Python • JavaScript/Node.js • SQL • TypeScript • Bash
-🤖 ML/AI:         PyTorch • TensorFlow • HuggingFace • Vision Models • NLP
-🚀 Backend:       FastAPI • Django • REST APIs • Websockets
-☁️  Cloud:         AWS (EC2, RDS, Lambda, SageMaker) • Docker • Kubernetes
-📊 Databases:     PostgreSQL • MongoDB • DynamoDB
-🔧 Tools:         Git • GitHub • DBeaver • Gradio • VS Code
-```
+<div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 Featured Projects
 
-### 🌟 **Tier 1: Production & Impact**
+### 🌟 Tier 1: Production & Impact
 
-#### 1. **[FeedHire LinkedIn Service](https://github.com/feedhire/feedhire-linkedin-service)** — Job Aggregation Platform
-- AI-powered job discovery and aggregation system
-- Real-time data pipeline with LinkedIn integration
-- API integrations with Upwork, Freelancer, Indeed
-- **Status**: Active Production | **Stack**: Python, FastAPI, PostgreSQL
+- **[FeedHire LinkedIn Service](https://github.com/feedhire/feedhire-linkedin-service)** - AI-powered job aggregation platform with real-time LinkedIn integration and multi-platform APIs (Python, FastAPI, PostgreSQL)
+- **[raafi_riyaz](https://github.com/rafipatel/raafi_riyaz)** - Full-stack AI engineer's portfolio with personal AI assistant (React, Tailwind, TypeScript) ⭐ 2
+- **[fastapi_whisperx_transcription_service](https://github.com/rafipatel/fastapi_whisperx_transcription_service)** - Production audio transcription service with word-level alignment & speaker diarization ⚡ 1
 
-#### 2. **[raafi_riyaz](https://github.com/rafipatel/raafi_riyaz)** — AI Engineer's Portfolio
-- Full-stack AI portfolio with personal AI assistant
-- Modern design with React + Tailwind CSS + TypeScript
-- Interactive AI features and showcases
-- ⭐ 2 stars | **Updated**: Yesterday
+### 🚀 Tier 2: AI/ML Research & Innovation
 
-#### 3. **[fastapi_whisperx_transcription_service](https://github.com/rafipatel/fastapi_whisperx_transcription_service)** ⚡ Audio Processing
-- FastAPI-based audio transcription service
-- Word-level alignment and speaker diarization using WhisperX
-- Production-ready with scalable architecture
-- ⭐ 1 star | **Updated**: Aug 2025
+- **[MuseTalk](https://github.com/rafipatel/MuseTalk)** - Real-time high-quality lip-syncing with latent space inpainting for video generation (Python, PyTorch)
+- **[exo_multimodal_support](https://github.com/rafipatel/exo_multimodal_support)** - Run your own AI cluster at home with everyday devices & multimodal inference support
+- **[Image-Super-Resolution-using-GANs](https://github.com/rafipatel/Image-Super-Resolution-using-GANs)** - PyTorch SRGAN/SRResNet implementation for single image super-resolution
+- **[MLCancerResearch](https://github.com/rafipatel/MLCancerResearch)** - ML algorithms for cancer patient survival prediction using TRACERx lung cancer dataset
+- **[transformer-pytorch-chatbot](https://github.com/rafipatel/transformer-pytorch-chatbot)** - State-of-the-art chatbot using PyTorch Transformers architecture ⭐ 1
 
----
+### 💡 Tier 3: Specialized Tools & Utilities
 
-### 🚀 **Tier 2: AI/ML Research & Innovation**
+- **[groq-proxy](https://github.com/rafipatel/groq-proxy)** - FastAPI proxy for Groq API with secure key management
+- **[Auto_Jobs_Applier](https://github.com/rafipatel/Auto_Jobs_Applier)** - Automated multi-platform job applications with AI agent (AIHawk)
+- **[video-translator-app](https://github.com/rafipatel/video-translator-app)** - Video translation and localization tool
+- **[linkedin_posts_scrapper](https://github.com/rafipatel/linkedin_posts_scrapper)** - GDPR-compliant LinkedIn post scraper with privacy-first approach (Private)
 
-#### 4. **[MuseTalk](https://github.com/rafipatel/MuseTalk)** — Video Synthesis
-- Real-time high-quality lip-syncing with latent space inpainting
-- State-of-the-art video generation
-- Enhanced fork with multimodal support
-- **Stack**: Python, PyTorch | **Updated**: Nov 2025
+### 🎨 Tier 4: Web & Design Projects
 
-#### 5. **[exo_multimodal_support](https://github.com/rafipatel/exo_multimodal_support)** — Distributed AI
-- Run your own AI cluster at home with everyday devices
-- Multimodal support for distributed inference
-- **Stack**: Python, Apache License 2.0 | **Updated**: 3 weeks ago
+- **[rafi_patel](https://github.com/rafipatel/rafi_patel)** - Personal portfolio website showcasing AI/ML projects (HTML/CSS) ⭐ 1
+- **[sultan_portfolio](https://github.com/rafipatel/sultan_portfolio)** - JavaScript-based portfolio template
+- **[developer-portfolios](https://github.com/rafipatel/developer-portfolios)** - Curated list of developer portfolios for inspiration
+- **[alhasanmasjid](https://github.com/rafipatel/alhasanmasjid)** - TypeScript project created with CodeSandbox
 
-#### 6. **[Image-Super-Resolution-using-GANs](https://github.com/rafipatel/Image-Super-Resolution-using-GANs)** — Computer Vision
-- PyTorch implementation of SRResNet and SRGAN
-- Single image super-resolution with training scripts
-- **Topics**: GAN, Residual Networks, SRGAN, SRResNet
-- **Stack**: Jupyter Notebook | **Updated**: May 2024
+### 📚 Tier 5: Academic & Learning Projects
 
-#### 7. **[MLCancerResearch](https://github.com/rafipatel/MLCancerResearch)** — Healthcare ML
-- ML algorithms for cancer patient survival prediction
-- TRACERx lung cancer dataset analysis
-- Advanced prognostic accuracy integration
-- **Stack**: Jupyter Notebook, MIT License | **Updated**: Jul 2025
+- **[MSc-Ai](https://github.com/rafipatel/MSc-Ai)** - Repository for MSc AI coursework and university projects
+- **[Deep-Reinforcement-Learning](https://github.com/rafipatel/Deep-Reinforcement-Learning)** - Reinforcement Learning university module coursework
+- **[brain_tumor_detection](https://github.com/rafipatel/brain_tumor_detection)** - Brain tumor detection using deep learning for AI course
+- **[f1chat](https://github.com/rafipatel/f1chat)** - Python-based chat application
 
-#### 8. **[transformer-pytorch-chatbot](https://github.com/rafipatel/transformer-pytorch-chatbot)** — NLP
-- State-of-the-art chatbot using PyTorch Transformers
-- Comprehensive framework and documentation
-- ⭐ 1 star | **Updated**: May 2024
+### 🔬 Tier 6: Data Science & Classic ML
 
----
-
-### 💡 **Tier 3: Specialized Tools & Utilities**
-
-#### 9. **[groq-proxy](https://github.com/rafipatel/groq-proxy)** — API Proxy
-- FastAPI proxy for Groq API with secure key management
-- **Stack**: Python, FastAPI | **Updated**: Dec 2025
-
-#### 10. **[Auto_Jobs_Applier](https://github.com/rafipatel/Auto_Jobs_Applier)** — Job Automation
-- Automated job application with AI agent (AIHawk)
-- Multi-platform job applications
-- **Stack**: Python | **Updated**: Nov 2024
-
-#### 11. **[video-translator-app](https://github.com/rafipatel/video-translator-app)** — Media Processing
-- Video translation and localization tool
-- **Stack**: Python, MIT License | **Updated**: Oct 2025
-
-#### 12. **[linkedin_posts_scrapper](https://github.com/rafipatel/linkedin_posts_scrapper)** — Data Collection
-- GDPR-compliant LinkedIn post scraper
-- Privacy-first data collection approach
-- **Status**: Private | **Updated**: Aug 2025
-
----
-
-### 🎨 **Tier 4: Web & Design Projects**
-
-#### 13. **[rafi_patel](https://github.com/rafipatel/rafi_patel)** — Portfolio Website
-- Personal portfolio showcasing AI/ML projects
-- HTML/CSS implementation | ⭐ 1 star
-- **Updated**: Oct 2025
-
-#### 14. **[raafi_riyaz](https://github.com/rafipatel/raafi_riyaz)** — Modern Portfolio
-- React + Tailwind modern design portfolio
-- ⭐ 2 stars | 🍴 2 forks
-- **Updated**: Yesterday
-
-#### 15. **[sultan_portfolio](https://github.com/rafipatel/sultan_portfolio)** — Portfolio Template
-- JavaScript-based portfolio template
-- **Updated**: Last week
-
-#### 16. **[developer-portfolios](https://github.com/rafipatel/developer-portfolios)** (Forked)
-- Curated list of developer portfolios for inspiration
-- **Updated**: Dec 30, 2025
-
----
-
-### 📚 **Tier 5: Academic & Learning Projects**
-
-#### 17. **[MSc-Ai](https://github.com/rafipatel/MSc-Ai)** — University Studies
-- Repository for MSc AI coursework and projects
-- **Updated**: Oct 2024
-
-#### 18. **[Deep-Reinforcement-Learning](https://github.com/rafipatel/Deep-Reinforcement-Learning)** — Reinforcement Learning
-- University module coursework
-- **Updated**: Aug 2024
-
-#### 19. **[brain_tumor_detection](https://github.com/rafipatel/brain_tumor_detection)** — Medical AI
-- Brain tumor detection using deep learning
-- **Updated**: Jan 2024
-
-#### 20. **[f1chat](https://github.com/rafipatel/f1chat)** — Chat Application
-- Python-based chat application
-- **Updated**: Dec 2024
-
----
-
-### 🔬 **Tier 6: Data Science & Classic ML**
-
-#### 21. **[Complete-TEXT_ANALYSIS-using-Python](https://github.com/rafipatel/Complete-TEXT_ANALYSIS-using-Python)** — NLP
-- Comprehensive text analysis pipeline
-- **Updated**: Sep 2022
-
-#### 22. **[LinearRegression-Model-with-EDA-FeatureEngineering-PCA-and-MongoDB](https://github.com/rafipatel/LinearRegression-Model-with-EDA-FeatureEngineering-PCA-and-MongoDB)** — ML Pipeline
-- End-to-end ML workflow with MongoDB integration
-- Feature engineering and PCA optimization
-- **Updated**: Aug 2022
-
-#### 23. **[Tweets-Sentiment-Analysis](https://github.com/rafipatel/Tweets-Sentiment-Analysis)** — NLP
-- Disaster tweets classification (Kaggle)
-- **Updated**: Aug 2022
-
-#### 24. **[Basic-CNN-Model-Python](https://github.com/rafipatel/Basic-CNN-Model-Python)** — Computer Vision
-- Image classification with CNN
-- **Updated**: Aug 2022
-
-#### 25. **[Breast-Cancer-Prediction-Web-app](https://github.com/rafipatel/Breast-Cancer-Prediction-Web-app)** — Healthcare ML
-- Deployed web app for cancer prediction
-- 🍴 1 fork | **Updated**: Jun 2022
-
-#### 26. **[AI_Plays_the_Game-Reinforement-Learning-Model](https://github.com/rafipatel/AI_Plays_the_Game-Reinforement-Learning-Model)** — RL
-- RL model using OpenAI Gym
-- **Updated**: Jun 2022
-
-#### 27. **[Spam-Mail-Prediction-python](https://github.com/rafipatel/Spam-Mail-Prediction-python)** — Classification
-- Email spam detection
-- **Updated**: Jun 2022
-
-#### 28. **[Personal-Assistant-Python](https://github.com/rafipatel/Personal-Assistant-Python)** — Voice AI
-- Python-based personal assistant
-- Similar to Siri, Google Assistant, Alexa
-- **Updated**: Jun 2022
+- **[Complete-TEXT_ANALYSIS-using-Python](https://github.com/rafipatel/Complete-TEXT_ANALYSIS-using-Python)** - Comprehensive text analysis pipeline
+- **[LinearRegression-Model-with-EDA-FeatureEngineering-PCA-and-MongoDB](https://github.com/rafipatel/LinearRegression-Model-with-EDA-FeatureEngineering-PCA-and-MongoDB)** - End-to-end ML workflow with MongoDB integration
+- **[Tweets-Sentiment-Analysis](https://github.com/rafipatel/Tweets-Sentiment-Analysis)** - Disaster tweets classification (Kaggle)
+- **[Basic-CNN-Model-Python](https://github.com/rafipatel/Basic-CNN-Model-Python)** - Image classification with CNN for shapes
+- **[Breast-Cancer-Prediction-Web-app](https://github.com/rafipatel/Breast-Cancer-Prediction-Web-app)** - Deployed web app for cancer prediction 🍴 1
+- **[AI_Plays_the_Game-Reinforement-Learning-Model](https://github.com/rafipatel/AI_Plays_the_Game-Reinforement-Learning-Model)** - RL model using OpenAI Gym environment
+- **[Spam-Mail-Prediction-python](https://github.com/rafipatel/Spam-Mail-Prediction-python)** - Email spam detection classification
+- **[Personal-Assistant-Python](https://github.com/rafipatel/Personal-Assistant-Python)** - Python-based voice assistant (Siri/Alexa-like)
 
 ---
 
 ## 📈 GitHub Stats
 
-```
-✅ 225+ Contributions (Last Year)
-⭐ 17 Starred Repositories
-🍴 28 Total Repositories
-👥 9 Followers
-🏆 Pull Shark Achievement
-```
+✅ 225+ Contributions | ⭐ 17 Starred | 🍴 28 Repositories | 👥 9 Followers | 🏆 Pull Shark
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Building
 
-- 🔨 **Building**: FeedHire — AI-powered job aggregation platform
-- 🎬 **Exploring**: Advanced video synthesis and multimodal AI
-- 📚 **Learning**: MLOps, production ML systems, and scalable architectures
-- 🤝 **Looking to collaborate**: AI/ML projects, open-source contributions
+🔨 **FeedHire** - AI-powered job aggregation platform
+🎬 **Video Synthesis** - Advanced multimodal AI projects
+📚 **MLOps & Production ML** - Scalable AI systems
 
 ---
 
-## 💬 Let's Connect!
+## 💬 Connect With Me
 
-- 💼 **LinkedIn**: [@raafi-riyaz](https://www.linkedin.com/in/raafi-riyaz-bb2954202)
-- 🌐 **Portfolio**: [rafipatel.github.io/rafi](https://rafipatel.github.io/rafi/)
-- 🤗 **HuggingFace**: [@Rafii](https://huggingface.co/Rafii)
-- 🚀 **Project**: [FeedHire.me](https://feedhire.me/)
-- 📧 **Email**: Check my profile for contact details
+💼 [LinkedIn](https://www.linkedin.com/in/raafi-riyaz-bb2954202) | 🌐 [Portfolio](https://rafipatel.github.io/rafi/) | 🤗 [HuggingFace](https://huggingface.co/Rafii) | 🚀 [FeedHire](https://feedhire.me/)
 
 ---
 
 <div align="center">
 
-### 🌟 If you find my work interesting, feel free to star ⭐ and fork 🍴 my repositories!
+### 🌟 If you find my work interesting, star ⭐ and fork 🍴 my repositories!
 
 **Made with ❤️ in London** | *Last Updated: February 2026*
 
