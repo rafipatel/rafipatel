@@ -37,42 +37,28 @@
 
 ## 📊 Featured Projects
 
-### 🌟 Tier 1: Production & Impact
-
-- **[FeedHire LinkedIn Service](https://github.com/feedhire/feedhire-linkedin-service)** - AI-powered job aggregation platform with real-time LinkedIn integration and multi-platform APIs (Python, FastAPI, PostgreSQL)
-- **[raafi_riyaz](https://github.com/rafipatel/raafi_riyaz)** - Full-stack AI engineer's portfolio with personal AI assistant (React, Tailwind, TypeScript) ⭐ 2
-- **[fastapi_whisperx_transcription_service](https://github.com/rafipatel/fastapi_whisperx_transcription_service)** - Production audio transcription service with word-level alignment & speaker diarization ⚡ 1
-
-### 🚀 Tier 2: AI/ML Research & Innovation
-
-- **[MuseTalk](https://github.com/rafipatel/MuseTalk)** - Real-time high-quality lip-syncing with latent space inpainting for video generation (Python, PyTorch)
-- **[exo_multimodal_support](https://github.com/rafipatel/exo_multimodal_support)** - Run your own AI cluster at home with everyday devices & multimodal inference support
+### 🚀 Tier 1: AI/ML Research & Innovation
+-  **[exo_multimodal_support](https://github.com/rafipatel/exo_multimodal_support)** - Run your own AI cluster at home with everyday devices & multimodal inference support [Open source contribution]
+- **[MuseTalk](https://github.com/rafipatel/MuseTalk)** - Real-time high-quality lip-syncing with latent space inpainting for video generation (Python, PyTorch) [Open source contribution]
 - **[Image-Super-Resolution-using-GANs](https://github.com/rafipatel/Image-Super-Resolution-using-GANs)** - PyTorch SRGAN/SRResNet implementation for single image super-resolution
+- **[Custom Trained Transformer Chatbot](https://github.com/rafipatel/transformer-pytorch-chatbot)** - State-of-the-art chatbot using PyTorch Transformers architecture ⭐ 1
 - **[MLCancerResearch](https://github.com/rafipatel/MLCancerResearch)** - ML algorithms for cancer patient survival prediction using TRACERx lung cancer dataset
-- **[transformer-pytorch-chatbot](https://github.com/rafipatel/transformer-pytorch-chatbot)** - State-of-the-art chatbot using PyTorch Transformers architecture ⭐ 1
 
-### 💡 Tier 3: Specialized Tools & Utilities
+### 🌟 Tier 2: Production & Impact
 
-- **[groq-proxy](https://github.com/rafipatel/groq-proxy)** - FastAPI proxy for Groq API with secure key management
-- **[Auto_Jobs_Applier](https://github.com/rafipatel/Auto_Jobs_Applier)** - Automated multi-platform job applications with AI agent (AIHawk)
-- **[video-translator-app](https://github.com/rafipatel/video-translator-app)** - Video translation and localization tool
-- **[linkedin_posts_scrapper](https://github.com/rafipatel/linkedin_posts_scrapper)** - GDPR-compliant LinkedIn post scraper with privacy-first approach (Private)
+- **[FeedHire](https://feedhire.me)** - AI-powered hidden job aggregation platform with real-time Reddit, Telegram, Mercor and many more multi-platform APIs (Python, FastAPI, PostgreSQL)
+- **[video-translator-app](https://github.com/rafipatel/video-translator-app)** - Video translation and localization tool with Voice clone and support of 21+ languages
+- **[fastapi_whisperx_transcription_service](https://github.com/rafipatel/fastapi_whisperx_transcription_service)** - Production audio transcription service with word-level alignment & speaker diarization for ASR understanding ⚡ 1
 
-### 🎨 Tier 4: Web & Design Projects
 
-- **[rafi_patel](https://github.com/rafipatel/rafi_patel)** - Personal portfolio website showcasing AI/ML projects (HTML/CSS) ⭐ 1
-- **[sultan_portfolio](https://github.com/rafipatel/sultan_portfolio)** - JavaScript-based portfolio template
-- **[developer-portfolios](https://github.com/rafipatel/developer-portfolios)** - Curated list of developer portfolios for inspiration
-- **[alhasanmasjid](https://github.com/rafipatel/alhasanmasjid)** - TypeScript project created with CodeSandbox
-
-### 📚 Tier 5: Academic & Learning Projects
+### 📚 Tier 3: Academic & Learning Projects
 
 - **[MSc-Ai](https://github.com/rafipatel/MSc-Ai)** - Repository for MSc AI coursework and university projects
 - **[Deep-Reinforcement-Learning](https://github.com/rafipatel/Deep-Reinforcement-Learning)** - Reinforcement Learning university module coursework
 - **[brain_tumor_detection](https://github.com/rafipatel/brain_tumor_detection)** - Brain tumor detection using deep learning for AI course
-- **[f1chat](https://github.com/rafipatel/f1chat)** - Python-based chat application
 
-### 🔬 Tier 6: Data Science & Classic ML
+
+### 🔬 Tier 5: Data Science & Classic ML
 
 - **[Complete-TEXT_ANALYSIS-using-Python](https://github.com/rafipatel/Complete-TEXT_ANALYSIS-using-Python)** - Comprehensive text analysis pipeline
 - **[LinearRegression-Model-with-EDA-FeatureEngineering-PCA-and-MongoDB](https://github.com/rafipatel/LinearRegression-Model-with-EDA-FeatureEngineering-PCA-and-MongoDB)** - End-to-end ML workflow with MongoDB integration
@@ -82,6 +68,11 @@
 - **[AI_Plays_the_Game-Reinforement-Learning-Model](https://github.com/rafipatel/AI_Plays_the_Game-Reinforement-Learning-Model)** - RL model using OpenAI Gym environment
 - **[Spam-Mail-Prediction-python](https://github.com/rafipatel/Spam-Mail-Prediction-python)** - Email spam detection classification
 - **[Personal-Assistant-Python](https://github.com/rafipatel/Personal-Assistant-Python)** - Python-based voice assistant (Siri/Alexa-like)
+
+### 🎨 Tier 4: Web & Design Projects
+- **[raafi_riyaz](https://github.com/rafipatel/raafi_riyaz)** - Full-stack AI engineer's portfolio with personal AI assistant (React, Tailwind, TypeScript) ⭐ 2
+- **[rafi_patel](https://github.com/rafipatel/rafi_patel)** - Personal portfolio website showcasing AI/ML projects (HTML/CSS) ⭐ 1
+- **[alhasanmasjid](https://github.com/rafipatel/alhasanmasjid)** - TypeScript project created with CodeSandbox for small active community
 
 ---
 
